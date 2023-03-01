@@ -1,0 +1,19 @@
+{
+  "name": "todo-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "repository": {
+  },
+  "author": "",
+  "bugs": {
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+    "typescript": "^4.9.5"
+  }
+}
